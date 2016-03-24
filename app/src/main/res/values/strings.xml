@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InteractiveStory</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="friend">Friend</string>
+    <string name="name">name</string>
+</resources>
